@@ -20,7 +20,7 @@ Competing alone against a field of **18,803+ teams**, I finished:
 | Manual trading | **Top 6.5%** |
 | United States rank | **#356** |
 
-Overall I was satisfied with this outcome: a top-7% global finish and nearly a top-350 placement in the US, achieved as  a solo competitor.
+Overall I was satisfied with this outcome: a top-7.1% global finish and nearly a top-350 placement in the US, achieved as  a solo competitor.
 
 ## How Prosperity works
 
