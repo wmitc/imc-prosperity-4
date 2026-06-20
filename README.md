@@ -15,7 +15,7 @@ Competing alone against a field of **18,803+ teams**, I finished:
 
 | Category | Result |
 |---|---|
-| **Overall** | **Top 7%** |
+| **Overall** | **Top 7.1%** |
 | Algorithmic trading | **Top 8.3%** |
 | Manual trading | **Top 6.5%** |
 | United States rank | **#356** |
