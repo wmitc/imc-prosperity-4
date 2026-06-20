@@ -1,6 +1,6 @@
 # IMC Prosperity 4
 
-> *From April 14 to April 30, more than **18,803 teams** ventured into deep space, working hard to
+> *From April 14 to April 30, **18,803 teams** ventured into deep space, working hard to
 > code and trade their way to Prosperity. For five exciting rounds they gave it their all in an
 > attempt to be crowned IMC Trading Talent of 2026.*
 
@@ -11,7 +11,7 @@ learned, and where I landed.
 
 ## Results
 
-Competing alone against a field of **18,803+ teams**, I finished:
+Competing alone against a field of 18,803 teams, I finished:
 
 | Category | Result |
 |---|---|
