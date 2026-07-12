@@ -184,7 +184,7 @@ I competed solo, and I used Claude as a force-multiplier throughout -- for strat
 the game theory elements, etc.), for building and refining each submission, and for the tight iterate-test-improve
 loop that the platform's fast feedback rewards. Applying AI as a research-and-engineering partner is
 a big part of how I managed to keep pace with with the top 10% in a field of more than 18,000 teams. It was a
-genuinely cool experience toe experiment with using AI to augment my problem-solving and boost my individual performance.
+genuinely cool experience to experiment with using AI to augment my problem-solving and boost my individual performance.
 
 ## Repository layout
 
